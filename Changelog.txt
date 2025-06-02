@@ -3,4 +3,4 @@
 - Changed the required rapport points for personal quests shown to all companions, reflecting the latest balance changes (all requirements were reduced).
 - Added/fixed missing information for Ember, Isobel, Sharp-as-Night and Azandar (all info taken from UESP, Bastian and Merri coming soon).
 - Changed the order of some of the companions rapports to maintain the sorting of highest to lowest.
-- Unified certain rapports into the shared rapports list.
+- Unified certain rapports into the shared rapports list. 
