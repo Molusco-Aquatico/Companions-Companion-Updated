@@ -1,6 +1,10 @@
-- Added support for Tanlorin and Zerith-var.
-- Added new 3 hours, 5 hours and 24 hours (daily) timers. (Needs testing)
-- Changed the required rapport points for personal quests shown to all companions, reflecting the latest balance changes (all requirements were reduced).
-- Added/fixed missing information for Ember, Isobel, Sharp-as-Night and Azandar (all info taken from UESP, Bastian and Merri coming soon).
-- Changed the order of some of the companions rapports to maintain the sorting of highest to lowest.
-- Unified certain rapports into the shared rapports list. 
+Version 1.0.1:
+    - Bumped API version to 101046.
+
+Version 1.0.0:
+    - Added support for Tanlorin and Zerith-var.
+    - Added new 3 hours, 5 hours and 24 hours (daily) timers. (Needs testing)
+    - Changed the required rapport points for personal quests shown to all companions, reflecting the latest balance changes (all requirements were reduced).
+    - Added/fixed missing information for Ember, Isobel, Sharp-as-Night and Azandar (all info taken from UESP, Bastian and Merri coming soon).
+    - Changed the order of some of the companions rapports to maintain the sorting of highest to lowest.
+    - Unified certain rapports into the shared rapports list. 
