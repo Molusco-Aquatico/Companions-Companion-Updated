@@ -4,7 +4,7 @@
 
 ### REQUIRES LibAddonMenu-2.0 !
 
-This is a simple update to the original [CompanionsCompanion](https://esoui.com/downloads/info3474-CompanionsCompanionRapport.html#info) AddOn with the main focus of including the 2 new companions (Tanlorin and Zerith-var) and also updating rapport info of older companions. I highly recommend checking out the original AddOn since it is still functioning (just outdated) and it also lists the main functions of the AddOn.
+This is a simple update to the original [CompanionsCompanion](https://esoui.com/downloads/info3474-CompanionsCompanionRapport.html#info) AddOn with the main focus of including the 2 new companions (Tanlorin and Zerith-var) and also updating rapport info of older companions. I highly recommend checking out the original AddOn since it is still functioning (just outdated) and it also lists the main features of the AddOn.
 
 
 ### Important info:
