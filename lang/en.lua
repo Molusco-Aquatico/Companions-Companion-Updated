@@ -72,31 +72,32 @@ local englishStrings = {
     CC_SHARED_MUNDUS_STONE             = "Visit any Mundus Stone",
     CC_SHARED_TRESPASS                 = "Tresspass in a restricted area",
     CC_SHARED_FLEE_GUARD               = "Successfully flee from a guard",
-    CC_SHARED_MURDER                   = "Murder an innocent NPC",
+    CC_SHARED_MURDER                   = "Murder an innocent NPC", -- Bastian 1 hour?
+    CC_SHARED_HEAVY_SACK               = "Loot a Heavy Sack",
 
     --[[
         Bastian
     ]]
     -- Good
-    CC_GOOD_BASTIAN_TEXT_2 = "Enter a Mages Guild hall that could contain a portal to Eyevea",
+    CC_GOOD_BASTIAN_TEXT_2 = "Enter a Mages Guild guildhall located within Alliance zones",
     CC_GOOD_BASTIAN_TEXT_3 = "Visit Eyevea or Artaeum",
     CC_GOOD_BASTIAN_TEXT_4 = "Complete a random encounter that helps people (e.g. rescuing merchants from bandits, summoners from Daedra, and travelers during Ambushes)",
     CC_GOOD_BASTIAN_TEXT_6 = "Scry for an antiquity",
-    CC_GOOD_BASTIAN_TEXT_7 = "Visit a crafting station",
+    CC_GOOD_BASTIAN_TEXT_7 = "Visit a crafting station", -- Needs to be veryfied (no mention on UESP)
     CC_GOOD_BASTIAN_TEXT_8 = "Read any book",
-    CC_GOOD_BASTIAN_TEXT_9 = "Kill a Worm Cultist",
+    CC_GOOD_BASTIAN_TEXT_9 = "Kill a Worm Cultist at the start of a Dark Anchor",
     CC_GOOD_BASTIAN_TEXT_10 = "Kill a bandit",
-    CC_GOOD_BASTIAN_TEXT_12 = "Kill a cultist",
+    CC_GOOD_BASTIAN_TEXT_12 = "Kill any cultist",
 
     -- Bad
+    CC_BAD_BASTIAN_TEXT_1 = "Get caught stealing or pickpocketing",
     CC_BAD_BASTIAN_TEXT_3 = "Pickpocket",
-    CC_BAD_BASTIAN_TEXT_4 = "Steal or loot the corpse of an innocent NPC",
-    CC_BAD_BASTIAN_TEXT_5 = "Kill critters (e.g. frogs)",
-    CC_BAD_BASTIAN_TEXT_6 = "Loot a Thieves Trove",
+    CC_BAD_BASTIAN_TEXT_5 = "Kill livestock (e.g. chickens, frogs, etc)",
+    CC_BAD_BASTIAN_TEXT_6 = "Steal",
     CC_BAD_BASTIAN_TEXT_7 = "Choose the flee option when accosted by a guard",
-    CC_BAD_BASTIAN_TEXT_8 = "Craft food using cheese",
+    CC_BAD_BASTIAN_TEXT_8 = "Cook any food using cheese",
     CC_BAD_BASTIAN_TEXT_9 = "Attack innocent NPCs",
-    CC_BAD_BASTIAN_TEXT_10 = "Murder innocent NPCs", -- >1 hour
+
 
 
     --[[
@@ -133,7 +134,7 @@ local englishStrings = {
     CC_GOOD_EMBER_TEXT_1  = "Complete a Thieves Guild Heist quest", -- Information taken from UESP and tested by myself (Molusco Aquático)
     CC_GOOD_EMBER_TEXT_2  = "Complete a daily High Isle delve quest offered by Wayllod",
     CC_GOOD_EMBER_TEXT_3  = "Sell a stolen purple-quality item to a Fence",
-    CC_GOOD_EMBER_TEXT_4  = "Begin a Black Sacrament", -- Needs checking (got only +1 two days in a row)
+    CC_GOOD_EMBER_TEXT_4  = "Begin a Black Sacrament", -- Needs checking (got only +1 two days in a row, but remember getting +10 once)
     CC_GOOD_EMBER_TEXT_5  =
     "Choose the Clemency option when accosted by a guard (requires Thieves Guild skill line passive)",
     CC_GOOD_EMBER_TEXT_6  = "Win a Tales of Tribute match",
@@ -189,7 +190,6 @@ local englishStrings = {
     ]]
 
     -- Good
-    CC_GOOD_SHARP_TEXT_1 = "Loot a heavy sack",
     CC_GOOD_SHARP_TEXT_2 = "Repair gear (including recharging weapon)",
     CC_GOOD_SHARP_TEXT_3 = "Harvest a plant-based material",
     CC_GOOD_SHARP_TEXT_4 = "Start fishing",
@@ -306,7 +306,6 @@ local englishStrings = {
     CC_GOOD_ZERITH_TEXT_12                    = "Give to a beggar",
     CC_GOOD_ZERITH_TEXT_13                    = "Heal yourself in combat while below 25%",
     CC_GOOD_ZERITH_TEXT_14                    = "Visit Baandari Trading Post",
-    CC_GOOD_ZERITH_TEXT_15                    = "Loot a heavy sack",
     CC_GOOD_ZERITH_TEXT_16                    = "Harvest a water node",
     CC_GOOD_ZERITH_TEXT_17                    = "Defeat Tho'at Replicanum in the Infinite Archive",
     CC_GOOD_ZERITH_TEXT_18                    = "Defeat Aramril in the Infinite Archive",

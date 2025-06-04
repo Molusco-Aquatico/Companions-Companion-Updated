@@ -86,7 +86,7 @@ end
 -- Timer text second data
 ---------------------------------
 local CC_TIME_TABLE = {
-    [CC_1_MINUTES]                         = 5,
+    [CC_1_MINUTES]                         = 60,
     [CC_2_MINUTES]                         = 120,
     [CC_3_MINUTES]                         = 180,
     [CC_5_MINUTES]                         = 300,

@@ -13,7 +13,7 @@ local CC_COMPANION_DATA = {
             },
             {
                 text = CC_SHARED_COMPLETE_MAGES_DAILY,
-                time = CC_NO_COOLDOWN,
+                time = CC_24_HOURS,
                 rapport = 125,
             },
             {
@@ -32,6 +32,16 @@ local CC_COMPANION_DATA = {
                 rapport = 10,
             },
             {
+                text = CC_GOOD_BASTIAN_TEXT_8,
+                time = CC_15_MINUTES,
+                rapport = 5,
+            },
+            {
+                text = CC_GOOD_BASTIAN_TEXT_9,
+                time = CC_10_MINUTES,
+                rapport = 5,
+            },
+            {
                 text = CC_SHARED_LOOTING_PSIJIC_PORTAL,
                 time = CC_5_MINUTES,
                 rapport = 5,
@@ -42,34 +52,24 @@ local CC_COMPANION_DATA = {
                 rapport = 5,
             },
             {
-                text = CC_GOOD_BASTIAN_TEXT_7,
-                time = CC_5_MINUTES,
-                rapport = 1,
-            },
-            {
-                text = CC_GOOD_BASTIAN_TEXT_8,
-                time = CC_15_MINUTES,
-                rapport = 1,
-            },
-            {
-                text = CC_GOOD_BASTIAN_TEXT_9,
-                time = CC_10_MINUTES,
-                rapport = 1,
+                text = CC_GOOD_BASTIAN_TEXT_12,
+                time = CC_1_MINUTES,
+                rapport = 5,
             },
             {
                 text = CC_GOOD_BASTIAN_TEXT_10,
-                time = CC_2_MINUTES,
-                rapport = 1,
+                time = CC_1_MINUTES,
+                rapport = 5,
             },
             {
-                text = CC_GOOD_BASTIAN_TEXT_12,
-                time = CC_2_MINUTES,
+                text = CC_GOOD_BASTIAN_TEXT_7,
+                time = CC_5_MINUTES,
                 rapport = 1,
-            },
+            }
         },
         bad  = {
             {
-                text = CC_BAD_BASTIAN_TEXT_10,
+                text = CC_SHARED_MURDER,
                 time = {
                     CC_OFF_COOLDOWN,
                     CC_DURING_COOLDOWN,
@@ -91,28 +91,22 @@ local CC_COMPANION_DATA = {
                 },
             },
             {
-                text = CC_BAD_BASTIAN_TEXT_3,
-                time = {
-                    CC_OFF_COOLDOWN,
-                    CC_DURING_COOLDOWN,
-                },
-                rapport = {
-                    10,
-                    5
-                },
-            },
-            {
-                text = CC_BAD_BASTIAN_TEXT_4,
+                text = CC_BAD_BASTIAN_TEXT_1,
                 time = CC_UNKNOWN_TIME,
-                rapport = 5,
+                rapport = 10
             },
             {
-                text = CC_BAD_BASTIAN_TEXT_5,
+                text = CC_BAD_BASTIAN_TEXT_3,
                 time = CC_UNKNOWN_TIME,
                 rapport = 5,
             },
             {
                 text = CC_BAD_BASTIAN_TEXT_6,
+                time = CC_UNKNOWN_TIME,
+                rapport = 5,
+            },
+            {
+                text = CC_BAD_BASTIAN_TEXT_5,
                 time = CC_UNKNOWN_TIME,
                 rapport = 5,
             },
@@ -622,7 +616,7 @@ local CC_COMPANION_DATA = {
                 },
             },
             {
-                text = CC_GOOD_SHARP_TEXT_1,
+                text = CC_SHARED_HEAVY_SACK,
                 time = {
                     CC_OFF_COOLDOWN,
                     CC_DURING_COOLDOWN,
@@ -1235,7 +1229,7 @@ local CC_COMPANION_DATA = {
                 rapport = 5,
             },
             {
-                text = CC_GOOD_ZERITH_TEXT_15,
+                text = CC_SHARED_HEAVY_SACK,
                 time = CC_5_HOURS,
                 rapport = 5,
             },
