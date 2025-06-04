@@ -1,5 +1,6 @@
 Version 1.0.1:
     - Bumped API version to 101046.
+    - Edited file formatting.
 
 Version 1.0.0:
     - Added support for Tanlorin and Zerith-var.
