@@ -35,7 +35,7 @@ local englishStrings = {
     CC_TIME_DAYS                         = "days",
 
     CC_UNKNOWN_TIME                      = "unknown",
-    CC_1_MINUTES                         = "1 minute",
+    CC_1_MINUTE                          = "1 minute",
     CC_2_MINUTES                         = "2 minutes",
     CC_3_MINUTES                         = "3 minutes",
     CC_5_MINUTES                         = "5 minutes",
@@ -53,9 +53,7 @@ local englishStrings = {
     CC_NO_COOLDOWN                       = "no cooldown",
     CC_OFF_COOLDOWN                      = "off cooldown",
     CC_DURING_COOLDOWN                   = "during cooldown",
-    CC_SHARED_COOLDOWN                   = "shared cooldown",
     CC_SHARED_BASTIAN_MIRRI              = "at 1000 and 2000 rapport",
-    CC_ONCE_PER_PERSONAL_QUEST           = "once per personal quest",
     CC_SHARED_PERSONAL_QUEST_RAPPORT     = "at 1000, 2000, and 3000 rapport",
     CC_ISOBEL_LEADERS                    = "1 hour (shared with the other leaders rapports)",
 

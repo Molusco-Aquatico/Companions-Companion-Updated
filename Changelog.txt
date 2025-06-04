@@ -1,6 +1,6 @@
 Version 1.1.0:
     - Added/fixed missing and olf information for Bastian (based of UESP).
-    - Fixed 1 minute timer.
+    - Fixed 1 minute timer and removed unused timers.
 
 Version 1.0.1:
     - Bumped API version to 101046.

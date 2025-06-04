@@ -86,7 +86,7 @@ end
 -- Timer text second data
 ---------------------------------
 local CC_TIME_TABLE = {
-    [CC_1_MINUTES]                         = 60,
+    [CC_1_MINUTE]                          = 60,
     [CC_2_MINUTES]                         = 120,
     [CC_3_MINUTES]                         = 180,
     [CC_5_MINUTES]                         = 300,
@@ -104,8 +104,6 @@ local CC_TIME_TABLE = {
     [CC_NO_COOLDOWN]                       = 0,
     [CC_OFF_COOLDOWN]                      = 0,
     [CC_DURING_COOLDOWN]                   = 0,
-    [CC_SHARED_COOLDOWN]                   = 0,
-    [CC_ONCE_PER_PERSONAL_QUEST]           = 0,
     [CC_SHARED_PERSONAL_QUEST_RAPPORT]     = 0,
     [CC_SHARED_BASTIAN_MIRRI]              = 0,
     [CC_ISOBEL_LEADERS]                    = 3600,

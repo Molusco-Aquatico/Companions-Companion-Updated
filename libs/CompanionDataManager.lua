@@ -53,12 +53,12 @@ local CC_COMPANION_DATA = {
             },
             {
                 text = CC_GOOD_BASTIAN_TEXT_12,
-                time = CC_1_MINUTES,
+                time = CC_1_MINUTE,
                 rapport = 5,
             },
             {
                 text = CC_GOOD_BASTIAN_TEXT_10,
-                time = CC_1_MINUTES,
+                time = CC_1_MINUTE,
                 rapport = 5,
             },
             {
