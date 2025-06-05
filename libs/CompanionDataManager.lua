@@ -131,24 +131,30 @@ local CC_COMPANION_DATA = {
             },
             {
                 text = CC_GOOD_MIRRI_TEXT_2,
-                time = CC_NO_COOLDOWN,
+                time = CC_24_HOURS,
                 rapport = 125,
             },
             {
                 text = CC_GOOD_MIRRI_TEXT_1,
-                time = CC_20_HOURS,
+                time = CC_24_HOURS,
                 rapport = 125,
             },
             {
                 text = CC_GOOD_MIRRI_TEXT_3,
-                time = CC_FIRST_TIME,
-                rapport = 75,
+                time = {
+                    CC_FIRST_TIME,
+                    CC_20_HOURS
+                },
+                rapport = {
+                    75,
+                    5
+                },
             },
             {
                 text = CC_GOOD_MIRRI_TEXT_4,
                 time = {
                     CC_FIRST_TIME,
-                    CC_OTHER_TIMES,
+                    CC_20_HOURS,
                 },
                 rapport = {
                     75,
@@ -156,13 +162,73 @@ local CC_COMPANION_DATA = {
                 },
             },
             {
+                text = CC_GOOD_MIRRI_TEXT_9,
+                time = {
+                    CC_FIRST_TIME,
+                    CC_20_HOURS,
+                },
+                rapport = {
+                    75,
+                    5,
+                },
+            },
+            {
+                text = CC_GOOD_MIRRI_TEXT_10,
+                time = {
+                    CC_FIRST_TIME,
+                    CC_20_HOURS,
+                },
+                rapport = {
+                    75,
+                    5,
+                },
+            },
+            {
+                text = CC_GOOD_MIRRI_TEXT_11,
+                time = {
+                    CC_FIRST_TIME,
+                    CC_20_HOURS,
+                },
+                rapport = {
+                    75,
+                    5,
+                },
+            },
+            {
+                text = CC_GOOD_MIRRI_TEXT_12,
+                time = {
+                    CC_FIRST_TIME,
+                    CC_20_HOURS,
+                },
+                rapport = {
+                    75,
+                    5,
+                },
+            },
+            {
+                text = CC_GOOD_MIRRI_TEXT_6,
+                time = CC_24_HOURS,
+                rapport = 10,
+            },
+            {
                 text = CC_GOOD_MIRRI_TEXT_5,
                 time = CC_30_MINUTES,
                 rapport = 10,
             },
             {
-                text = CC_GOOD_MIRRI_TEXT_6,
-                time = CC_20_HOURS,
+                text = CC_GOOD_MIRRI_TEXT_19,
+                time = {
+                    CC_1_HOUR,
+                    CC_DURING_COOLDOWN
+                },
+                rapport = {
+                    10,
+                    1
+                },
+            },
+            {
+                text = CC_GOOD_MIRRI_TEXT_8,
+                time = CC_UNKNOWN_TIME,
                 rapport = 10,
             },
             {
@@ -171,33 +237,13 @@ local CC_COMPANION_DATA = {
                 rapport = 5,
             },
             {
-                text = CC_SHARED_LOOTING_PSIJIC_PORTAL,
-                time = CC_5_MINUTES,
-                rapport = 5,
-            },
-            {
-                text = CC_GOOD_MIRRI_TEXT_9,
-                time = CC_20_HOURS,
-                rapport = 5,
-            },
-            {
-                text = CC_GOOD_MIRRI_TEXT_10,
-                time = CC_20_HOURS,
-                rapport = 5,
-            },
-            {
-                text = CC_GOOD_MIRRI_TEXT_11,
-                time = CC_20_HOURS,
-                rapport = 5,
-            },
-            {
-                text = CC_GOOD_MIRRI_TEXT_12,
-                time = CC_20_HOURS,
-                rapport = 5,
-            },
-            {
                 text = CC_GOOD_MIRRI_TEXT_14,
-                time = CC_2_MINUTES,
+                time = CC_5_MINUTES,
+                rapport = 1,
+            },
+            {
+                text = CC_GOOD_MIRRI_TEXT_20,
+                time = CC_5_MINUTES,
                 rapport = 1,
             },
             {

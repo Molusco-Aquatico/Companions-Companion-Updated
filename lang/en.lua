@@ -102,13 +102,14 @@ local englishStrings = {
         Mirri
     ]]
     -- Good
-    CC_GOOD_MIRRI_TEXT_1  = "Complete a daily Ashlander Quest for Numani-Rasi",
-    CC_GOOD_MIRRI_TEXT_2  = "Complete a daily Fighters Guild quest",
-    CC_GOOD_MIRRI_TEXT_3  = "Enter the Library of Vivec in Vivec City containing a completed model of Vvardenfell",
-    CC_GOOD_MIRRI_TEXT_4  = "Enter the Thieves Den in Abah's Landing containing items from Kari's Hit List",
-    CC_GOOD_MIRRI_TEXT_5  = "Enter a Daedric-themed delve or public dungeon",
+    CC_GOOD_MIRRI_TEXT_1  = "Complete a daily Ashlander Quest for Numani-Rasi in Vvardenfell",
+    CC_GOOD_MIRRI_TEXT_2  = "Complete a daily Fighters Guild quest offered by Cardea Gallus",
+    CC_GOOD_MIRRI_TEXT_3  = "View a completed Library of Vivec in Vivec City",
+    CC_GOOD_MIRRI_TEXT_4  = "View a completed Kari's Hit List in the Abah's Landing Thieves Den",
+    CC_GOOD_MIRRI_TEXT_5  = "Enter a daedric-themed delve or public dungeon (e.g. Ashalmawia, Broken Tusk, Mehrunes' Spite, Sanguine's Demesne, The Cave of Trophies and The Grotto of Depravity)",
     CC_GOOD_MIRRI_TEXT_6  = "Visit the Clockwork City (except Brass Fortress unless through front gate)",
     CC_GOOD_MIRRI_TEXT_7  = "Excavate an Antiquity",
+    CC_GOOD_MIRRI_TEXT_8  = "Talk to Sotha Sil",
     CC_GOOD_MIRRI_TEXT_9  = "View a completed Khajiit of the Moons in Senchal",
     CC_GOOD_MIRRI_TEXT_10 = "View a completed Rithana-di-Renada in Riverhold",
     CC_GOOD_MIRRI_TEXT_11 = "View a completed House of Orsimer Glories in Orsinium",
@@ -118,10 +119,12 @@ local englishStrings = {
     CC_GOOD_MIRRI_TEXT_16 = "Craft an alcoholic beverage",
     CC_GOOD_MIRRI_TEXT_17 = "Read a book from a bookshelf",             -- 5:34pm -6:36 -7:36 -9:44 >2hour
     CC_GOOD_MIRRI_TEXT_18 = "Summon the Daemon Chicken non-combat pet", -- TODO
+    CC_GOOD_MIRRI_TEXT_19 = "Take all loot from a treasure chest",
+    CC_GOOD_MIRRI_TEXT_20 = "Kill a riekling",
 
     -- Bad
     CC_BAD_MIRRI_TEXT_1 = "Complete a Dark Brotherhood Black Sacrament quest",
-    CC_BAD_MIRRI_TEXT_2 = "Collect a torchbug or butterfly",
+    CC_BAD_MIRRI_TEXT_2 = "Collect a torchbug, butterfly or honey bee",
 
 
     --[[
