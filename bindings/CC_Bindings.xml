@@ -1,0 +1,24 @@
+<Bindings>
+    <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+        <Category name="CompanionsCompanion Updated">
+            <Action name="CC_OPEN_COMPANION_MENU">
+                <Down>OpenCompanionMenu()</Down>
+            </Action>
+            <Action name="CC_OPEN_COMPANION_EQUIPMENT">
+                <Down>OpenCompanionEquipment()</Down>
+            </Action>
+            <Action name="CC_OPEN_COMPANION_SKILLS">
+                <Down>OpenCompanionSkills()</Down>
+            </Action>
+            <Action name="CC_OPEN_COMPANION_COLLECTIONS">
+                <Down>OpenCompanionCollections()</Down>
+            </Action>
+            <Action name="CC_OPEN_COMPANION_RAPPORT_GOOD">
+                <Down>OpenCompanionRapportGood()</Down>
+            </Action>
+            <Action name="CC_OPEN_COMPANION_RAPPORT_BAD">
+                <Down>OpenCompanionRapportBad()</Down>
+            </Action>
+        </Category>
+    </Layer>
+</Bindings>

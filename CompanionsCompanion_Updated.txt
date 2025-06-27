@@ -2,8 +2,8 @@
 ## Description: Adds helpful information to the companion overview window
 ## Author: AnotherORC and Molusco_Aquatico
 ## APIVersion: 101046
-## AddOnVersion: 110
-## Version: 1.1.0
+## AddOnVersion: 200
+## Version: 2.0.0
 ## SavedVariables: CompanionsCompanionVars
 ## DependsOn: LibAddonMenu-2.0>=40
 
@@ -34,5 +34,8 @@ utils/StorageManager.lua
 utils/AddonSettingMenu.lua
 
 CC.lua
+
+bindings/CC_Bindings.lua
+bindings/CC_Bindings.xml
 
 ## This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates. The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the United States and/or other countries. All rights reserved.

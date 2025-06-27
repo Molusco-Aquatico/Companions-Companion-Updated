@@ -1,7 +1,7 @@
 ---
 --- @author: AnotherORC and Molusco_Aquatico
 ---
---- Companion's Companion provides addintional information about your companions.
+--- Companion's Companion provides additional information about your companions.
 --- This is provided through an extra tab avaliable in the companion overview
 --- screen.
 ---     Features:
@@ -14,7 +14,7 @@ local CC = {}
 CC_SETTINGS = {
     NAME         = "CompanionsCompanion_Updated",
     DISPLAY_NAME = "Companions Companion Updated",
-    VERSION      = "1.1.0",
+    VERSION      = "2.0.0",
     AUTHOR       = "AnotherORC and Molusco_Aquatico",
     CHAT_PREFIX  = "|cB759FF[CC]: |r",
     CHAT_VALUE   = "|cFFFFFF",
